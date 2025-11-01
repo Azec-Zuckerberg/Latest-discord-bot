@@ -1,0 +1,11 @@
+{
+  "pool": [
+    "Azec-Discord-0CUTZ-KZFVF-1RZIW-DWPCM",
+    "Azec-Discord-K3VMV-YQKQZ-IHO2L-63APB",
+    "Azec-Discord-LS56N-A29FN-T39ZP-DC8GQ"
+  ],
+  "config": {
+    "min_days": 7,
+    "mode": "account"
+  }
+}

@@ -1,1 +1,1 @@
-# Latest-discord-bot
+# Discord-bot
